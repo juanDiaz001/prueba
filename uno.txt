@@ -1,1 +1,2 @@
 uno contiene uno
+tambien modifica uno aunq se espera conflicto
